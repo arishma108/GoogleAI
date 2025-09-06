@@ -310,4 +310,4 @@ For further reading, check out the official resources:
 - [Nano Banana docs prompting guide](https://ai.google.dev/gemini-api/docs/image-generation#prompt-guide).
 - [Pixshop app](https://ai.studio/apps/bundled/pixshop) in AI Studio
 
-If you're building something cool with this, I'd love to see it! Feel free to DM or tag me on X: [@persadian](https://x.com/persadian).
+
